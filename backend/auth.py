@@ -15,7 +15,6 @@ fake_users_db = {
     }
 }
 
-SECRET_KEY = "your-secret-key-here"  # Should be in .env in production
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
